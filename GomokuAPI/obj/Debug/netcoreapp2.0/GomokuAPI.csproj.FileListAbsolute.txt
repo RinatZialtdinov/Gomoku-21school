@@ -1,0 +1,13 @@
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\GomokuAPI.deps.json
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\GomokuAPI.runtimeconfig.json
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\GomokuAPI.runtimeconfig.dev.json
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\GomokuAPI.dll
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\bin\Debug\netcoreapp2.0\GomokuAPI.pdb
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.csprojAssemblyReference.cache
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.AssemblyInfoInputs.cache
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.AssemblyInfo.cs
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.dll
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.pdb
+C:\Users\Rinat\Desktop\gomoku-master\GomokuAPI\obj\Debug\netcoreapp2.0\GomokuAPI.genruntimeconfig.cache

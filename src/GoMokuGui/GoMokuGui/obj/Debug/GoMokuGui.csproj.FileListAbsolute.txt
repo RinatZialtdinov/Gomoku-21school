@@ -1,0 +1,15 @@
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\bin\Debug\GoMokuGui.exe.config
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\bin\Debug\GoMokuGui.exe
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\bin\Debug\GoMokuGui.pdb
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.csprojAssemblyReference.cache
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\MainWindow.g.cs
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\App.g.cs
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui_MarkupCompile.cache
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui_MarkupCompile.lref
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\MainWindow.baml
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.g.resources
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.Properties.Resources.resources
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.csproj.GenerateResource.cache
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.exe
+C:\Users\Rinat\Desktop\gomoku-master\src\GoMokuGui\GoMokuGui\obj\Debug\GoMokuGui.pdb
